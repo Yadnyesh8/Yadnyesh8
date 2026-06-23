@@ -26,9 +26,4 @@
   <img src="https://img.shields.io/badge/dApps-Web3-5E60CE?style=for-the-badge&logo=ethereum&logoColor=white" />
 </div>
 <br/>
-<h2 align="center">LeetCode Stats</h2>
-<div align="center">
-  <a href="https://leetcode.com/u/kdlFcSKRYh/">
-    <img src="https://leetcard.jacoblin.cool/kdlFcSKRYh?theme=dark&font=Baloo_2&ext=heatmap" alt="LeetCode Stats" />
-  </a>
 </div>
